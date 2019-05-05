@@ -8,6 +8,6 @@ $git add *                    //Add file
 $git commit -m "test"         //commit
 
 $git remote add origin <url>  //add <url> if you push at the first
-      http_url: https://github.com/Seaoftrees/<name>.git
+      http_url: https://github.com/Seaoftrees08/<name>.git
 
 $git push origin <branch>     //push
