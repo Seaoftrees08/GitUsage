@@ -13,5 +13,5 @@ $git remote add origin <url>  //add <url> if you push at the first
 $git push origin <branch>     //push
 
 # First Settings
-$git config --global user.email "you@example.com"   // set email
+$git config --global user.email "you@example.com"   // set email  
 $git config --global user.name "Your Name"          // set username 
